@@ -1,0 +1,184 @@
+              /* idex style */
+
+/*body style*/
+#sb{
+background-color:white;
+margin:20px;
+
+}
+
+
+#h1{
+    font-family: 'Lobster', cursive;
+    text-shadow:black 10px 0px 20px;
+    font-size:50px ; 
+    color:#7B241C;
+    padding-left:30%;
+}
+
+/*header style */
+#he,#na{
+    width:100%;
+    height: 100px;
+    background-color:#7B241C ;
+
+}
+
+
+a{
+    color: aliceblue;
+     padding-left:5%; 
+     font-size:25px;
+     font-family: 'Lobster', cursive;
+}
+a:hover{
+    color: red;
+}
+
+
+/* main style */
+ #ma{
+     width:50%;
+     height:950px; 
+     float: left;
+     
+ }
+
+ .fi{
+    font-size:25px;
+    font-family: 'Lobster', cursive;
+
+ }
+
+ .le{
+    font-size:30px; font-style: italic;
+    font-family: 'Lobster', cursive;
+ }
+
+ #search{
+    margin:20%; 
+    width:70%;
+     height:2%;
+     background:-webkit-linear-gradient( white ,burlywood);
+    background:-o-linear-gradient( white,burlywood);
+    background:-moz-linear-gradient( white, burlywood);
+    background:linear-gradient( white,burlywood);
+    
+     
+ }
+
+ p{
+    text-align: justify;
+ }
+
+/* aside style */
+ #di{
+     width:50%;
+     height:950px;
+     float: right;
+ }
+
+/* footer style */
+ #fo{             
+    height: 100px;
+    font-family: 'Lobster', cursive;
+    background:-webkit-linear-gradient( white ,burlywood);
+    background:-o-linear-gradient( white,burlywood);
+    background:-moz-linear-gradient( white, burlywood);
+    background:linear-gradient( white,burlywood);
+    padding:10px;
+    
+ }
+
+ 
+                   /* signup style */
+#signup{
+    width:80%;
+    height:500px;
+    background-color: burlywood;
+    margin:10%;
+}
+
+#name{
+ padding-left: 20%;
+ font-family: 'Lobster', cursive;
+ color: #7B241C;
+ 
+}
+#namel{
+    padding-left:12%;
+    font-family: 'Lobster', cursive;
+    color: #7B241C;
+}
+#pass{
+    padding-left:13%;
+    font-family: 'Lobster', cursive;
+    color: #7B241C;
+}
+#mail{
+    padding-left:22%;
+    font-family: 'Lobster', cursive;
+    color: #7B241C;
+}
+#date{
+    padding-left:25%;
+    font-family: 'Lobster', cursive;
+    color: #7B241C;
+}
+#button1{
+    margin-left: 30%;
+    margin-top:10%;
+    background-color: chocolate;
+    font-family: 'Lobster', cursive;
+}
+#button2{
+    margin-left:20%;
+    margin-top: 10%;
+    font-family: 'Lobster', cursive;
+    background-color:chocolate;
+}
+
+                 /* library style */
+
+    #dir2{
+        width:40%;
+        height:20%;
+        border:brown solid;
+        background-color: khaki;
+        float: right;
+        margin:2%;
+        background:-webkit-linear-gradient( white ,burlywood);
+    background:-o-linear-gradient( white,burlywood);
+    background:-moz-linear-gradient( white, burlywood);
+    background:linear-gradient( white,burlywood);
+    
+    }
+
+
+    #dil2{
+        width:40%;
+        height:20%; 
+        border:brown solid;
+        background-color: khaki;
+        float: left;
+        margin:2%;
+        background:-webkit-linear-gradient( white ,burlywood);
+    background:-o-linear-gradient( white,burlywood);
+    background:-moz-linear-gradient( white, burlywood);
+    background:linear-gradient( white,burlywood);
+
+    }
+
+    .dir{
+        font-size:30px; 
+        text-align: center;
+        -webkit-transition:font-size 1s ;
+        transition:font-size 1s ;
+
+    }
+
+    .dir:hover{
+        font-size:60px ;
+
+        }
+   
